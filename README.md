@@ -1,8 +1,5 @@
-## Hi there 👋
-
-<!--
-**lokh# 💫 About Me:
-About Me<br><br>I am a Bachelor of Computer Science (B.Sc. CS) student at BAMU University, currently in my 3rd year. I am passionate about Information Technology, software development, and continuously learning new tools and technologies.<br><br>I enjoy working on:<br><br>Data Structures & Algorithms<br><br>Full Stack Web Development<br><br>Cloud & AI Technologies<br><br>I strongly believe in hard work, consistency, and learning by building real-world projects.
+Hi, I'm Vishal Lokhande
+<br><br>I am a Bachelor of Computer Science (B.Sc. CS) student at BAMU University, currently in my 3rd year. I am passionate about Information Technology, software development, and continuously learning new tools and technologies.<br><br>I enjoy working on:<br><br>Data Structures & Algorithms<br><br>Full Stack Web Development<br><br>Cloud & AI Technologies<br><br>I strongly believe in hard work, consistency, and learning by building real-world projects.
 
 
 ## 🌐 Socials:
@@ -18,16 +15,4 @@ About Me<br><br>I am a Bachelor of Computer Science (B.Sc. CS) student at BAMU U
 ---
 [![](https://visitcount.itsvg.in/api?id=lokhande125&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->ande125/lokhande125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
